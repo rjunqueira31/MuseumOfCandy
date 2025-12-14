@@ -1,0 +1,7 @@
+{
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "search.useReplacePreview": true,
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "prettier.singleAttributePerLine": false
+}
